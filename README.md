@@ -1,8 +1,8 @@
-### 📊 GitHub Stats
+### 📊 Paw paw paw 🐈‍⬛
 
-<div style="display: flex; justify-content: space-between; flex: 1; align-items: center">
-  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api?username=Raven0uss&show_icons=true&theme=tokyonight&hide=stars,issues" />
-  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api/top-langs/?username=Raven0uss&&layout=compact&langs_count=8&card_width=320&hide=html,css" />
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api?username=Raven0uss&show_icons=true&theme=dracula&hide=stars,issues" />
+  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api/top-langs/?username=Raven0uss&&layout=compact&theme=dracula&langs_count=8&card_width=320&hide=html,css" />
 </div>
 <!--
 **Raven0uss/Raven0uss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
