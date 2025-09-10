@@ -1,6 +1,7 @@
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raven0uss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](./assets/stats.svg)
 
 <!--
 **Raven0uss/Raven0uss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
