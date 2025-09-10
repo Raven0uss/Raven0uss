@@ -1,8 +1,9 @@
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raven0uss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](./assets/stats.svg)
-
+<div style="display: flex; justify-content: space-between; flex: 1; align-items: center">
+  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api?username=Raven0uss&show_icons=true&theme=tokyonight&hide=stars,issues" />
+  <img height=200 align="center" src="https://github-readme-stats-gilt-nine-44.vercel.app/api/top-langs/?username=Raven0uss&&layout=compact&langs_count=8&card_width=320&hide=html,css" />
+</div>
 <!--
 **Raven0uss/Raven0uss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
