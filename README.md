@@ -1,4 +1,4 @@
-### 📊 Paw paw paw 🐈‍⬛
+## 🐾 Paw paw paw 🐈‍⬛
 
 I'm Sofiane a software engineer with over **10 years of experience** building apps, games, and everything in between.  
 Living in **Japan** 🇯🇵, after several years working as a **freelance developer in Paris** 🇫🇷 for clients across Europe.
