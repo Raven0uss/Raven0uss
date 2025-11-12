@@ -6,11 +6,11 @@ Living in **Japan** 🇯🇵, after several years working as a **freelance devel
 ---
 
 #### 🛠️ What I Do
-- **Web**: Specialist in React for scalable and maintainable front-end systems.
-- **Mobile**: React Native proficient, building cross-platform apps with smooth UX.
-- **Server**: Node.js back-ends mostly with TypeScript, experienced with Prisma, GraphQL friendly, and MongoDB.
-- **Game Dev**: Unity with C# (`MonoBehaviour`), using Unity Version Control for collaboration (no data here!).
-- **Other Languages**: Python for scripting, I like to explore some C retro gaming projects, and currently learning **Go** for backend performance.
+- **Web**: Specialist in **React** for scalable and maintainable front-end systems.
+- **Mobile**: **React Native** proficient, building cross-platform apps with smooth UX.
+- **Server**: **Node.js** back-ends mostly with **TypeScript**, experienced with **Prisma, GraphQL** friendly, and **MongoDB**.
+- **Game Dev**: **Unity** with **C# (`MonoBehaviour`)**, using Unity Version Control.
+- **Other Languages**: Python for scripting, I like to explore some C retro gaming projects, and currently learning **Go**.
 
 ---
 
@@ -19,7 +19,7 @@ Living in **Japan** 🇯🇵, after several years working as a **freelance devel
 - Music - I love playing piano as a way to relax and stay creative between two tickets
 - Prototyping game mechanics in Unity listening some JRPG OST
 - Bridging front-end and back-end workflows with strong type systems while drinking a cup of matcha 
-- Artificial Inteligence - Difficult to skip that right 🤖
+- Artificial Inteligence - I like to create system prompt to create LLM assistants
   
 ---
 
